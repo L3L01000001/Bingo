@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "Beverages"
+  },
+  {
+    "Id": 2,
+    "Name": "Fruits"
+  },
+  {
+    "Id": 3,
+    "Name": "Dessert"
+  },
+  {
+    "Id": 4,
+    "Name": "Ready meals"
+  },
+  {
+    "Id": 5,
+    "Name": "Dairy and eggs"
+  },
+  {
+    "Id": 6,
+    "Name": "Vegetables"
+  },
+  {
+    "Id": 7,
+    "Name": "Snacks"
+  }
+]

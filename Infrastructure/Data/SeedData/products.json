@@ -1,0 +1,83 @@
+[
+  {
+    "Id": 1,
+    "Name": "Zlatna Dzezva Bosnian Coffee",
+    "Price": 6.4,
+    "Unit": "650g",
+    "ImageUrl": "images/zlatna-dzezva.jpg",
+    "BrandId": 1,
+    "SubCategoryId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Kiseljak Mineral Sparking Water",
+    "Price": 1.5,
+    "Unit": "1L",
+    "ImageUrl": "images/kiseljak.jpg",
+    "BrandId": 2,
+    "SubCategoryId": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Bananas",
+    "Price": 2.7,
+    "Unit": "1kg",
+    "ImageUrl": "images/bananas.jpg",
+    "BrandId": null,
+    "SubCategoryId": 3
+  },
+  {
+    "Id": 4,
+    "Name": "Pizza Ristorante",
+    "Price": 18,
+    "Unit": "550g",
+    "ImageUrl": "images/pizza-ristorante.jpg",
+    "BrandId": 4,
+    "SubCategoryId": 5
+  },
+  {
+    "Id": 5,
+    "Name": "Norwegia Cheese",
+    "Price": 110,
+    "Unit": "1kg",
+    "ImageUrl": "images/norwegia-cheese.jpg",
+    "BrandId": 5,
+    "SubCategoryId": 7
+  },
+  {
+    "Id": 6,
+    "Name": "Nutella Hazelnut Cream",
+    "Price": 65,
+    "Unit": "750g",
+    "ImageUrl": "images/nutella-hazelnut.png",
+    "BrandId": 3,
+    "SubCategoryId": 4
+  },
+  {
+    "Id": 7,
+    "Name": "Cappy Juice",
+    "Price": 15,
+    "Unit": "1l",
+    "ImageUrl": "images/cappy-juice.jpg",
+    "BrandId": 6,
+    "SubCategoryId": 6
+  },
+  {
+    "Id": 8,
+    "Name": "Tomatoes",
+    "Price": 13.5,
+    "Unit": "1kg",
+    "ImageUrl": "images/tomatoes.png",
+    "BrandId": null,
+    "SubCategoryId": 8
+  },
+  {
+    "Id": 9,
+    "Name": "Snickers",
+    "Price": 9,
+    "Unit": "50g",
+    "ImageUrl": "images/snickers.jpg",
+    "BrandId": 2,
+    "SubCategoryId": 9
+  }
+]
